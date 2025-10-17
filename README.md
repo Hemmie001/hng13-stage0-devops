@@ -1,4 +1,6 @@
-**Name:** EMMANUEL AKEJELU
+# HNG 13 Stage 0 DevOps Task
+
+* **Name:** EMMANUEL AKEJELU
 * **Slack Username:** Emmanuel_A
 
 ## Project Description:
